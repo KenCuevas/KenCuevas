@@ -2,8 +2,6 @@
 
 # About me: Programmer in process...
 
-![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
 ```java
 while (noSucces)
 {
@@ -12,6 +10,7 @@ while (noSucces)
             break;
 }
 ```
+![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
