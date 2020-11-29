@@ -1,10 +1,18 @@
 ### Hi there 👋
 
+# About me: Programmer in process...
+
+![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
+```java
+while (noSucces)
+{
+    tryAgain();
+    if(deadOn)
+            break;
+}
+```
 <!--
-**KenCuevas/KenCuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+!-->
