@@ -10,7 +10,7 @@ while (noSucces)
             break;
 }
 ```
-![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 # Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KenCuevas&theme=highcontrast&show_icons=true&count_private=true)
