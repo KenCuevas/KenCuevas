@@ -13,8 +13,6 @@ Habilidades: Java/Spring
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KenCuevas)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenCuevas)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenCuevas&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/KenCuevas)  
