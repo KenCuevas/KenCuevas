@@ -1,16 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'am Kenny
 
-# About me: Programmer in process...                                          
-
-```java
-while (noSucces)
-{
-    tryAgain();
-    if(deadOn)
-            break;
-}
-```
-![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+### I am a Backend Java developer who seeks every day to learn something new to be applied in the future.                                         
 
 # Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KenCuevas&theme=highcontrast&show_icons=true&count_private=true)
