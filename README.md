@@ -1,18 +1,22 @@
-### Hola 👋, Mi nombre es Kenny
-#### Soy desarrollador backend I only advocate open source ... Don't insert anything after here.
-In progress...
+## Hi there 🤙
+I'm Kenny from the Dominican Republic 🇩🇴
+<a href="https://twitter.com/Kcu3v4s">
+  <img align="right" alt="Kenny's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kencuevas/">
+  <img align="right" alt="Kenny's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/imgonnafillyou?si=5428b84045744eac">
+  <img align="right" alt="Kenny's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-Habilidades: Java/Spring
+## Who are you? 👀
+I'm a backend developer who only advocates open source ... Do not insert anything after here.
 
-- 🔭 Estoy trabajando en SpringBoot 
-- 🌱 Estoy aprendiendo ReactJS 
-- 📫 Cómo contactarme: kennycuevas99@gmail.com 
+## Bio 📝
+- 🥇 I use daily: `.java`, `spring`, `js`, `.py`
+- 🎆 Learning about **Open Source**
+- 😵‍💫 I have a very serious love-hate relationship with CSS.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KenCuevas)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KenCuevas)](https://github.com/ryo-ma/github-profile-trophy)
-
+## Check my stats 💻
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KenCuevas&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/KenCuevas)  
