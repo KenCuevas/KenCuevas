@@ -14,7 +14,7 @@ I'm Kenny from the Dominican Republic 🇩🇴
 I'm a backend developer who only advocates open source ... Do not insert anything after here.
 
 ## Bio 📝
-- 🥇 I use daily: `.java`, `spring`, `js`, `.py`
+- 🥇 I use daily: `.java`, `spring`, `js`
 - 🎆 Learning about **Open Source**
 - 😵‍💫 I have a very serious love-hate relationship with CSS.
 
